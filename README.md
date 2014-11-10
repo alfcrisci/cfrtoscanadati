@@ -1,11 +1,11 @@
 cfrtoscanadati
 ==============
 
-Code for civic Following #hacktoscana hackaton organized by Regione Toscana 
+Code for civic hacking of meteorological data for tuscany created in  #hacktoscana a civic hackaton organized by Regione Toscana 
 
-www.internetfestival.it/bandi/hacktoscana/
+www.internetfestival.it/bandi/hacktoscana/ and managed by Progetto RENA
 
-and managed by Progetto RENA
+www.progetto-rena.it
 
 ### Requirements
 
